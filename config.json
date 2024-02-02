@@ -1,0 +1,25 @@
+{
+  "server": {
+    "host": "mc.hypixel.net",
+    "port": 25565
+  },
+  "minecraft": {
+    "username": "",
+    "password": "",
+    "lobbyHolder": "krisj1402",
+    "accountType": "microsoft"
+  },
+  "discord": {
+    "token": "MTIwMzAzNDc2NTg1NTQyNDU5Mg.G_hdAr.CwyezadaaH-MUb7hL4w9AFBZuQQXDR4IxOaGy4",
+    "channel": "1203034486661714041",
+    "commandRole": "1199084543282528327",
+    "ownerId": "345589447074775050",
+    "prefix": "!",
+    "messageMode": "bot"
+  },
+  "express": {
+    "enabled": false,
+    "port": 8880,
+    "authorization": "authorizationHeaderString"
+  }
+}
